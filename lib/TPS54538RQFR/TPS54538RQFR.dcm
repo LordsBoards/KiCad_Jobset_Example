@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS54538RQFR
+D 3.8-V to 28-V, 5-A, 200-kHz to 2.2-MHz, synchronous buck converter
+K
+F https://www.ti.com/product/TPS54538/part-details/TPS54538RQFR?utm_source=google&utm_medium=cpc&utm_campaign=ocb-tistore-null-app_opn_en-cpc-storeic-google-soas_en_pur&utm_content=Device&ds_k=TPS54538RQFR&DCM=yes&gad_source=1&gclid=Cj0KCQjwhMq-BhCFARIsAGvo
+$ENDCMP
+#
+#End Doc Library
